@@ -1,0 +1,18 @@
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+section {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h3{
+    text-decoration: underline;
+    color: rgb(208, 158, 255);
+
+}
+main.imagem {display: flex;
+    justify-content: center; /* Centralizar horizontalmente */
+    align-items: center; /* Centralizar verticalmente */
+    height: 100vh; /* Opcional: Defina a altura como 100% da altura da janela de visualização para centralização vertical */
+}
+    
